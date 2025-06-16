@@ -1,5 +1,3 @@
 {
-    "rust-analyzer.cargo.extraEnv": {
-        "AX_CONFIG_PATH": "/home/zhourui/arceos/arceos-main/.axconfig.toml"
-    }
+    "rust-analyzer.cargo.allTargets": false
 }

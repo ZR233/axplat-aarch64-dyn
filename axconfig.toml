@@ -2,6 +2,8 @@
 arch = "aarch64" # str
 # Platform identifier.
 platform = "aarch64-dyn" # str
+# Platform package.
+package = "axplat-aarch64-dyn"            # str
 
 #
 # Platform configs
